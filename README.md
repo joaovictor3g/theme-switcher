@@ -3,8 +3,8 @@
 ### 💡 Project
 - A project lets you toggle your theme between dark and light. 
 
-<img src="assets/light.png" alt="light-theme" >
-<img src="assets/dark.png" alt="dark-theme">
+<img src="assets/light.png" alt="light-theme" width="300px">
+<img src="assets/dark.png" alt="dark-theme" width="300px">
 
 
 
